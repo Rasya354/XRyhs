@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
-#Code by LeeOn123
 import random
 import socket
 import threading
 
-print("--> Code By XRyhs <--")
+os.system("clear")
+print("--> XRyhs Ganteng <--")
 print("#-- TCP/UDP FLOOD --#")
 ip = str(input(" Host/Ip:"))
 port = int(input(" Port:"))
